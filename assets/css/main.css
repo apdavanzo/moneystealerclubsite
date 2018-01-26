@@ -3198,7 +3198,7 @@
 			margin-top: -20rem;
 		}
 
-			#intro + #header .logo {
+			#intro .logo {
 				-moz-transform: translateY(2rem);
 				-webkit-transform: translateY(2rem);
 				-ms-transform: translateY(2rem);
