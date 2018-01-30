@@ -3154,8 +3154,7 @@
 			color: #ffffff !important;
 		}
 
-			#intro input[type="submit"]:hover,
-			#intro input[type="reset"]:hover,
+			#intro input[type="submit"]:hover, #intro input[type="reset"]:hover,
 			#intro input[type="button"]:hover,
 			#intro button:hover,
 			#intro .button:hover {
